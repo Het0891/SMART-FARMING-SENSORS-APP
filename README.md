@@ -3,8 +3,6 @@
 ## Introduction
 Welcome to the Smart Farming Sensors App! This project aims to provide farmers with a comprehensive solution for monitoring various environmental parameters in their fields using sensors and leveraging the power of Flutter, Dart, and Firebase Database.
 
-[Include any relevant badges, such as build status, license, etc.]
-
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
